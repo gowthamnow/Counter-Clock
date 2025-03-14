@@ -1,0 +1,5 @@
+set_property PACKAGE_PIN U19 [get_ports {q[1]}]
+set_property PACKAGE_PIN W22 [get_ports {q[0]}]
+set_property PACKAGE_PIN Y9 [get_ports clk]
+set_property PACKAGE_PIN M15 [get_ports rst]
+set_property PACKAGE_PIN U14 [get_ports {q[2]}]
